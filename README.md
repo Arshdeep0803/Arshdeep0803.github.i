@@ -7,3 +7,4 @@ This is my first github website
   "age": 19
 }
 ```
+I got 92% marks in secondary examination.
