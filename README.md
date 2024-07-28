@@ -6,6 +6,5 @@ This is my first github website
   "lastName": "kaur",
   "age": 19
 }
-```
-I got 92% marks in secondary examination
+My excel certificate:
 https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/5086562/original/Arshdeep_Kaur20240727-74-1jg3rjd.jpg
