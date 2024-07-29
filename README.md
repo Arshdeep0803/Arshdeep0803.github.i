@@ -23,6 +23,11 @@ His gave title of his speech was 1 2 ka 4.
 jouney of Btech 4 years.
 L-Learn
 I-inquire
+
 F-Future
 E-Explore
+
+>Mr.pancham
+Topic of his presentation was related to seven different universal facial expressions.
+
 
